@@ -1,0 +1,17 @@
+
+
+#toppane{
+	-fx-padding:40px 0;
+	-fx-font-size:15px;
+	-fx-background-color:#90d2d8;
+	
+}
+#btnsearch{
+	-fx-background-color:#3b5998;
+	-fx-text-fill:white;
+
+	
+}
+#image{
+	-fx-background-color:red;
+}

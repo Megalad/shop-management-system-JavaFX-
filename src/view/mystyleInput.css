@@ -1,0 +1,56 @@
+
+
+
+
+
+#inputpane{
+	-fx-background-color:#90d2d8;
+
+
+}
+
+
+
+.hbox{
+
+	-fx-padding:10px 50px;
+	
+	-fx-font-size:15px;
+}
+
+
+#table{
+	-fx-margin:200px;
+	-fx-background-color:#E6E6FA;
+}
+
+
+
+
+
+.button{
+	
+	-fx-font-size:20px;
+	-fx-padding:5px 30px;
+	-fx-border-color:white;
+
+}
+
+#btnadd{
+	-fx-background-color:#00B200;
+}
+#btnadd:hover{
+	-fx-background-color:#00FF00;
+	
+}
+#btnclear{
+	-fx-background-color:#FF7979;
+}
+#btnclear:hover{
+	-fx-background-color:#FF0000;
+	-fx-text-fill:white;
+}
+
+
+
+

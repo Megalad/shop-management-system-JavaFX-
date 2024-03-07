@@ -1,0 +1,18 @@
+
+
+/*For Report Page*/
+#productreportReport{
+	-fx-background-color:#ddfffc;
+	
+}
+#centerpaneReport{
+	-fx-background-color:#E6E6FA;
+}
+.titleReport{
+	-fx-font-size:20px;
+	-fx-padding:20px;
+}
+.yearReport{
+	-fx-padding:0px 10px 0px 10px;
+	-fx-font-size:15px;
+}

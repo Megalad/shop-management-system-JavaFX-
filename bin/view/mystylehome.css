@@ -1,0 +1,60 @@
+
+
+#amountpane{
+
+	-fx-background-color: linear-gradient(to top, #2980b9, #6dd5fa, #ffffff);
+	-fx-padding:10px;
+	-fx-font-size:15px;
+}
+#itempane{
+	-fx-background-color:#FFD700;
+	-fx-padding:10px;
+	-fx-font-size:15px;
+}
+#profitpane{
+	-fx-background-color: linear-gradient(to bottom, #adcbe3, #c2d2e7, #d4dae9, #e2e3eb, #ededed);
+	-fx-padding:10px;
+	-fx-font-size:15px;
+}
+#totalitempane{
+	-fx-background-color: linear-gradient(to bottom, #f6a6b2, #f1b9ce, #eacce2, #e7ddeb, #ededed);
+	-fx-padding:10px;
+	-fx-font-size:15px;
+}
+
+.dashchild{
+	-fx-background-color: linear-gradient(to bottom, #ffffba, #fff3cf, #fff2f1, #fff9ff, #ffffff);
+
+	-fx-padding:10px;
+	-fx-font-size:20px;
+}
+
+#dashboard{
+	-fx-background-color:#ddfffc;
+	-fx-padding:50 10;
+}
+
+
+
+#chartpane{
+	-fx-background-color: linear-gradient(to bottom, #ffdfba, #ffe2d6, #ffeaef, #fff5fe, #ffffff);
+	
+
+}
+#creditpane{
+	-fx-background-color: linear-gradient(to bottom, #bae1ff, #d2e7ff, #e5eeff, #f4f6ff, #ffffff);
+	-fx-padding:0 30px;
+}
+#centerpane{
+	-fx-padding-top:10px;
+
+}
+
+
+.title{
+
+	-fx-padding:10px;
+	-fx-font-size:30px;
+
+
+}

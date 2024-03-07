@@ -1,0 +1,13 @@
+
+
+#mainpane{
+	-fx-background-color: linear-gradient(to bottom, #b7ded2, #b9ddc4, #c2dab4, #cfd5a6, #e0ce9b, #dccd99, #d9cd97, #d5cc95, #bad1a1, #a3d4b3, #93d4c7, #90d2d8);
+	-fx-font-size:20px;
+}
+#header{
+	-fx-font-size:50px;
+	
+}
+#buttonpane{
+	-fx-padding-buttom:30px;
+}
